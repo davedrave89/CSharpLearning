@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpLearning", "CSharpLearning\CSharpLearning.csproj", "{9441AC19-C8BC-4165-A811-4564E81689A1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuelConsole", "FuelConsole\FuelConsole.csproj", "{6DCFECC7-4588-47FC-8E98-BE08690D073D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9441AC19-C8BC-4165-A811-4564E81689A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9441AC19-C8BC-4165-A811-4564E81689A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9441AC19-C8BC-4165-A811-4564E81689A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9441AC19-C8BC-4165-A811-4564E81689A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DCFECC7-4588-47FC-8E98-BE08690D073D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DCFECC7-4588-47FC-8E98-BE08690D073D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DCFECC7-4588-47FC-8E98-BE08690D073D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DCFECC7-4588-47FC-8E98-BE08690D073D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
